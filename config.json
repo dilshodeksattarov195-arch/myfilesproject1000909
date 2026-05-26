@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesender",
+        "uuid": 6815682,
+        "checksum": "mgsrw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
